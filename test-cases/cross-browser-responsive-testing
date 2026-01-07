@@ -1,0 +1,35 @@
+# 🌐 Testing Cross-Browser y Responsive
+
+## 📄 Descripción del Proyecto
+Este proyecto se enfoca en la validación de la funcionalidad **“compartir automóvil”** en una aplicación web, asegurando su correcto comportamiento en diferentes navegadores y resoluciones de pantalla.
+
+El objetivo fue identificar problemas de compatibilidad y diseño que puedan afectar la experiencia del usuario en distintos dispositivos.
+
+---
+
+## 🎯 Objetivos
+- Verificar la compatibilidad de la aplicación en múltiples navegadores
+- Validar el diseño responsive en diferentes tamaños de pantalla
+- Detectar errores visuales y funcionales
+- Documentar los resultados de las pruebas de compatibilidad
+
+---
+
+## 🛠️ Herramientas Utilizadas
+- Google Chrome
+- Mozilla Firefox
+- Chrome DevTools
+- Técnicas de testing manual
+- Documentación en Markdown
+
+---
+
+## 🧪 Tipos de Pruebas Realizadas
+- Testing cross-browser
+- Testing responsive
+- Testing funcional
+- Validación visual y de usabilidad
+
+---
+
+## 📂 Estructura del Repositorio
